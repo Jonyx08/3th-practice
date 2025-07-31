@@ -1,0 +1,21 @@
+{
+  "name": "3th-practice",
+  "version": "1.0.0",
+  "main": "InputAndOutput.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests defined\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonyx08/3th-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonyx08/3th-practice/issues"
+  },
+  "homepage": "https://github.com/Jonyx08/3th-practice#readme",
+  "description": ""
+}
